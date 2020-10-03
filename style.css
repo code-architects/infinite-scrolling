@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+#content {
+    height: 125vh;
+    font-size: 20px;
+}
+span {
+    font-size: 48px;
+}
